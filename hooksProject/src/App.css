@@ -1,0 +1,7 @@
+@layer base {
+    body {
+      background-color: #b1d7ff;
+      color: #000; /* Optional: text color */
+    }
+  }
+  
